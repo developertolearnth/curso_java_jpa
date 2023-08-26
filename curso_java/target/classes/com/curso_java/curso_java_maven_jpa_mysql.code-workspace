@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "curso_java_maven_jpa_mysql",
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
